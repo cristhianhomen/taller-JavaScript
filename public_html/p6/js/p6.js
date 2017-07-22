@@ -1,0 +1,16 @@
+var result = 50**10;
+console.log("50 a la 10 es "+result+"");
+var result = 10**50;
+console.log("10 a la 50 es "+result+"");
+var result = 50*10;
+console.log("la multiplicacion entre 50 y 10 es "+result+"");
+var result = 50 / 10;
+console.log("la division entre 50 y 10 es "+result+"");
+var result = 10 / 50;
+console.log("la division entre 10 y 50 es "+result+"");
+var result = 50 % 10;
+console.log("el modulo de la division entre 50 y 10 es "+result+"");
+var result = 50 - 10;
+console.log("la resta entre 50 y 10 es "+result+"");
+var result = 50 + 10;
+console.log("la suma entre 50 y 10 es "+result+"");
